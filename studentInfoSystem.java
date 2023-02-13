@@ -1,4 +1,4 @@
-package studeninfosystem;
+package studentinfosystem;
 
 import java.util.*;
 import java.io.*;
